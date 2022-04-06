@@ -9,3 +9,7 @@
 .h5peditor .libwrap.h5p-multimediachoice-editor .field-name-behaviour .field-name-confirmRetryDialog {
   display: none;
 }
+
+.h5peditor .libwrap.h5p-multimediachoice-editor .field-name-behaviour .field-name-showSolutionsRequiresInput {
+  display: none;
+}
