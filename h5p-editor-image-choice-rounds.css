@@ -1,0 +1,11 @@
+.h5peditor .libwrap.h5p-multimediachoice-editor .field-name-behaviour .field-name-enableRetry {
+  display: none;
+}
+
+.h5peditor .libwrap.h5p-multimediachoice-editor .field-name-behaviour .field-name-enableSolutionsButton {
+  margin-top: 0;
+}
+
+.h5peditor .libwrap.h5p-multimediachoice-editor .field-name-behaviour .field-name-confirmRetryDialog {
+  display: none;
+}
